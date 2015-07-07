@@ -1,0 +1,8 @@
+{
+  "communication":{
+    "unixSocketPath":"/tmp/logger-conn.sock",
+    "serverListenAdd":"",
+    "serverListenPort":"3214",
+    "masterAddress":"127.0.0.1:3215"
+  }
+}
